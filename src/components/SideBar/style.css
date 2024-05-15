@@ -1,0 +1,19 @@
+.sideBar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: yellow;
+}
+.linkList {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 100vh;
+    font-weight: 600;
+}
